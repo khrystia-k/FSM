@@ -17,7 +17,7 @@ Run fsm.py file
 * ill, sleep - final states
 
 Some transitions between states occur randomly
-![image](https://github.com/khrystia-k/FSM/assets/116711583/8e43e9f7-4d9e-49bb-b52d-0f01712796e4)
+![image](https://github.com/khrystia-k/FSM/assets/116711583/00a6549b-08b6-4e5f-94d0-2886d106f1ee)
 
 ## Received behaviors
 It was a hard day because there was no leisure time
