@@ -1,6 +1,17 @@
 # FSM
 Finite state machine for simulation of a day of student's life.
 
+## Usage
+Get the module from git repository:
+```
+git clone https://github.com/khrystia-k/FSM
+```
+Run fsm.py file
+```
+>>> python fsm.py
+```
+
+
 ## FSM diagram
 * init - initial state
 * ill, sleep - final states
